@@ -85,3 +85,18 @@ What is the output of **echo $people[2]['email'];** ?
 Question 15
 
 What is the output of **var_dump($chunkedArray);** ?
+
+>array(2) {
+  [0]=>
+  array(2) {
+    [0]=>
+    string(5) "apple"
+    [1]=>
+    string(6) "banana"
+  }
+  [1]=>
+  array(1) {
+    [0]=>
+    string(6) "orange"
+  }
+}
